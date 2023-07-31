@@ -1,5 +1,4 @@
 # simple_num_trick
-# simple_num_trick
 
 这段Python代码接受一串数字作为输入，并根据一组特定的规则生成一个"trick num list"（魔术数字列表）。代码的目的是接收一串单个数字（0-9）的序列，并根据以下原则生成一个新的列表：
 
